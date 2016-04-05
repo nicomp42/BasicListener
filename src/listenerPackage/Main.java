@@ -1,3 +1,8 @@
+/***********************************************
+ * main() for Listener class                   *
+ *                                             *
+ * Bill Nicholson                              *
+ ***********************************************/
 package listenerPackage;
 
 public class Main {

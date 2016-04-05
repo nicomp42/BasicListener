@@ -1,7 +1,9 @@
-/**
- * A basic example of a TCP/IP client acting as a listener.
- * This class opens a socket and listens on a port for incoming connection requests 
- */
+/****************************************************************************************
+ * A basic example of a TCP/IP client acting as a listener.                             *
+ * This class opens a socket and listens on a port for incoming connection requests     *
+ * Bill Nicholson                                                                       *
+ * nicholdw@ucmail.uc.edu                                                               *
+ ****************************************************************************************/
 package listenerPackage;
 
 import java.io.BufferedReader;
