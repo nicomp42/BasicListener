@@ -34,6 +34,7 @@ public class Listener extends Thread {
 		BufferedReader in;
         ServerSocket myServerSocket = null;  // A listener
         String msg = null;
+        System.out.println("Listener: listening on port " + port + " of this machine.");
         while (true) {
             try {
             	// It's probably not open, but try to close it anyway.
